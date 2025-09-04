@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <h1>My portfolio</h1>
     <div> prashan gurung</div>
       <div>
         <a href="https://vite.dev" target="_blank">
